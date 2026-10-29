@@ -1,5 +1,10 @@
 pessoa
-cabelo loiro
-pé
-corpo
-cabeça
+cabelo preto
+mao
+orelha
+olhos
+bocas
+nariz
+dente
+braço
+mandibula
